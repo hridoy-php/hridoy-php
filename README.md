@@ -6,7 +6,7 @@ To build a career in a renowned and promising organization. Wirer there is an ex
 
 Skills: HTML /CSS /JavaScript /jQuery /vue.js /Reactjs /PHP /Laravel 
 
-- 🔭 I’m currently working on Pondit 
+- 🔭 I’m currently working on Tappeware Solutions Limited 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github /gitlab 
 - 💬 Ask me about Web Development 
