@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Hridoy Biswas
 #### Software Quality Assurance (SQA) Engineer
-![Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/306096916_2027129680812177_6719212020991292088_n.jpg?stp=dst-jpg_p640x640&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=vNsJsCYJNnYAX_nQb13&_nc_ht=scontent.fdac24-1.fna&oh=00_AfCuT6zlg0PfFP0kui2Tlj8bgRCOZF0I66dPVpdprMfKAw&oe=63799F22)
 
 To build a career in a renowned and promising organization. Wirer there is an excellent career development prospects and a challenging environment. I believe hard work strict discipline good communication and creative problem solving skill are the cornerstones of success
 
